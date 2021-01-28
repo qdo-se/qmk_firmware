@@ -14,7 +14,7 @@ SLEEP_LED_ENABLE = yes  # Breathing sleep LED during USB suspend
 NKRO_ENABLE = yes	    # USB Nkey Rollover
 CUSTOM_MATRIX = no # Custom matrix file
 BACKLIGHT_ENABLE = yes
-RGBLIGHT_ENABLE = yes        # Enable keyboard RGB underglow
+RGBLIGHT_ENABLE = no        # Disable keyboard RGB underglow
 WS2812_DRIVER = spi
 
 LAYOUTS = 60_ansi 60_tsangan_hhkb
